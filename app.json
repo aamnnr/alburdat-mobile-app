@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Alburdat Mobile",
+    "slug": "alburdat-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#E8F5E9"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#E8F5E9"
+      },
+      "package": "com.alburdatmobile"
+    },
+    "web": {
+      "favicon": "./assets/icon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4388e5d9-c07a-483a-877a-e8296db36da8"
+      }
+    }
+  }
+}
